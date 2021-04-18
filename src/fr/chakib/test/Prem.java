@@ -15,5 +15,9 @@ System.out.println("allo");
 //you
 //me
 	}
+	public void t() {
+		
+	}
 
 }
+
